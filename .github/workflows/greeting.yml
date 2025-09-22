@@ -1,0 +1,2 @@
+name: greeting
+on: [issues, pull_request]
